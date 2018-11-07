@@ -1,0 +1,15 @@
+.add_new_button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fake_link {
+    cursor:pointer;
+    color:blue;
+    text-decoration:underline;
+}
